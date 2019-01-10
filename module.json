@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "vshm-lakan-guide",
+    "author": "tera love / bobby",
+    "description": "VSHM Lakan Guide",
+    "options": {
+        "niceName": "VS-Guide",
+		"settingsVersion": 1.1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/sb032835/vshm-lakan/master/"]
+}
