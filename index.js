@@ -68,7 +68,7 @@ module.exports = function VSHMLakanGuide(mod) {
 	mod.command.add('vs', {
     	$none() {
     		mod.settings.enabled = !mod.settings.enabled
-			mod.command.message(`侀塌的貝里克神殿 guide ${mod.settings.enabled ? '<font color="#56B4E9">[開啟]' : '<font color="#E69F00">[關閉]'}`)
+			mod.command.message(`倒塌的貝里克神殿 guide ${mod.settings.enabled ? '<font color="#56B4E9">[開啟]' : '<font color="#E69F00">[關閉]'}`)
 			//mod.command.message(`VSHM Guide ${mod.settings.enabled ? '<font color="#56B4E9">[enabled]' : '<font color="#E69F00">[disable]'}`)
     	},			
 		pt() {
