@@ -4,10 +4,10 @@
     "author": "tera love / bobby",
     "description": "VSHM Lakan Guide",
     "options": {
-        "niceName": "VS-Guide",
+        "niceName": "VSHM-Guide",
 		"settingsVersion": 1.1,
 		"settingsFile": "config.json",
 		"settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/sb032835/vshm-lakan/master/"]
+    "servers": ["https://raw.githubusercontent.com/sb032835/vshm-lakan-guide/master/"]
 }
